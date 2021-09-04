@@ -1,1 +1,19 @@
+package jtpex1;
+
+public class prog2 { 
+    void datatype declaration()
+    {
+            int x=10;
+            double y=10.9878;
+            char ch='x';
+            string str=new string();
+            str='string';
+            byte a=7;
+            boolean boo1=true;
+            short sh=7;
+            long lng=987654;
+            float fl=78f;
+            system.out.println("variables have been declared sucessfully");
+     }
+}     
 
